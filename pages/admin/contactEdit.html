@@ -1,0 +1,40 @@
+<main class="h-100">
+    <div class="container">
+
+        <div class="container-fluid py-5">
+            <form action="contactEdit.php" method="post" >
+                <div class="row g-3">
+                    <div class="col-md-6 position-relative">
+                        <label for="iNr" class="form-label">International Number</label>
+                        <input type="text" class="form-control" id="iNr" name="iNr" required value="--iNr--">
+                    </div>
+                    <div class="col-md-6 position-relative">
+                        <label for="nNr" class="form-label">National number</label>
+                        <input type="text" class="form-control" id="nNr" name="nNr" required value="--nNr--">
+                    </div>
+    
+                    <div class="mb-3">
+                        <label for="street" class="form-label">Street</label>
+                        <input type="text" class="form-control" id="street" name="street" required value="--street--">
+                    </div>
+                    <div class="col-md-6 position-relative">
+                        <label for="email" class="form-label">Support Email</label>
+                        <input type="text" name="email" id="email" class="form-control" value="--email--">
+                    </div>
+                    <div class="col-md-6 position-relative">
+                        <label for="message" class="form-label">Message</label>
+                        <textarea class="form-control" id="message" name="message" required>--descript--</textarea>
+                    </div>
+    
+                    <div class="mb-3">
+                        <button class="btn btn-primary" type="submit" name="update_contact">Submit</button>
+                    </div>
+    
+                </div>
+
+            </form>
+            
+
+        </div>
+    </div>
+</main>

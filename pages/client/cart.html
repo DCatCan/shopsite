@@ -1,0 +1,64 @@
+<main class="container my-5 bg-light px-0 py-4">
+
+    <!-- items that are added to the cart are placed in the form -->
+    <div class="p-4 ">
+        <h1 class="display-4">
+            Your cart:
+        </h1>
+    </div>
+    
+    <form action="cart.php" method="post">
+
+        <ul class="list-group list-group-flush">
+
+
+            <!-- lol -->
+            <li class="list-group-item">
+                <div class="row">
+                    <div class="col-md-2">
+                        <input type="checkbox" class="form-check-input" id="--item--" name="check_list[]" value="--index--">
+                        <label for="--item--" class="form-check-label">
+                            product key: --id--
+                        </label>
+                    </div>
+                    <div class="col-md-3">
+                        <p>
+                            Product: --item--
+                        </p>
+                    </div>
+                    <div class="col-md-4">
+                        <p>
+                            Price: --amount-- x --price-- = --prodTot-- Euro
+                        </p>
+                    </div>
+                    <div class="col-md-2 text-end">
+                        <p>
+                            Amount: --amount--
+                        </p>
+    
+                    </div>
+                </div>
+            </li>
+            <!-- lol -->
+
+        </ul>
+
+        <div class="row p-3 pt-2">
+            <div class="col-lg-6">
+                <h2>
+                    Total Price: --total-- Euro
+                </h2>
+            </div>
+            <div class="col-lg-6 text-end">
+                <input type="submit" name="delete" class="btn btn-danger" value="Remove" >
+                <input type="submit" name="checkout" class="btn btn-primary" value="Checkout" > 
+
+            </div>
+            
+        </div>
+        
+
+    </form>
+
+    
+</main>

@@ -1,0 +1,33 @@
+<main class="h-100">
+    <div class="container">
+
+        <div class="container-fluid py-5">
+            <div>
+                <h2>Main page edit</h2>
+                <p>The edit is made from top to bottom</p>
+            </div>
+            <form action="mainEdit.php" method="post">
+                <div class="row ">
+                    <!-- section -->
+                    <hr class="mt-1">
+                    <div class="col-md-6 position-relative">
+                        <label for="--titlepart--" class="form-label">--titlepart--</label>
+                        <input type="text" class="form-control" id="--titlepart--" name="--titlepart--"  value="--title--">
+                    </div>
+                    <div class="col-md-6 position-relative">
+                        <label for="--textpart--" class="form-label">--textpart--</label>
+                        <textarea class="form-control" id="--textpart--" name="--textpart--" required>--text--</textarea>
+                    </div>
+    
+                    <!-- section -->
+    
+                </div>
+                <div class="mb-3">
+                    <button class="btn btn-primary" type="submit" name="update_main">Submit</button>
+                </div>
+            </form>
+            
+
+        </div>
+    </div>
+</main>

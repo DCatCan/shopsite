@@ -1,0 +1,86 @@
+
+// colors
+$informative_colors:(
+  "primary": blue,
+  "warning": yellow,
+  "danger" : red,
+  "success": green,
+);
+
+$brown_c: (
+  "khaki":  #F0E68C,
+
+
+);
+
+// font-stuff
+$font-var : 0.75rem;
+
+$font-weights: (
+    "regular": 400,
+    "medium": 500,
+    "bold": 700
+);
+
+
+
+
+
+
+
+
+//grid and media stuff
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px
+);
+
+
+$grid-breakpoints: (
+  // Small screen / phone
+  sm: 576px,
+  // Medium screen / tablet
+  md: 768px,
+  // Large screen / desktop
+  lg: 992px,
+  // Extra large screen / wide desktop
+  xl: 1200px
+);
+
+$direction-type: (
+  r: "right", 
+  l: "left", 
+  t: "top", 
+  b: "bottom"
+);
+
+$direction-duo:(
+  "x" "left" "right",
+  "y" "top" "bottom"
+);
+
+$alignment: (
+  start,
+  end,
+  center,
+  left,
+  right,
+);
+$spacer-var: 0.5em;
+
+$grid-gutter-width: 1.5rem;
+$gutters: (
+  0: 0,
+  1: $spacer-var * .25,
+  2: $spacer-var * .5,
+  3: $spacer-var,
+  4: $spacer-var * 1.5,
+  5: $spacer-var * 3,
+);
+
+
+$columns: 12;
+
+$--bs-font-sans-serif : system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";

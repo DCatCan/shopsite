@@ -1,0 +1,16 @@
+@mixin minq($s) {
+    $size: map-get($map: $grid-breakpoints, $key:$s );
+
+    @media (min-width: $size) {
+        @content;        
+    }
+    
+}
+@mixin maxq($size) {
+
+
+    @media only screen and (max-width: $size){
+        @content;
+    }
+    
+}

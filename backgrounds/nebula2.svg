@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg136360"
+   viewBox="0 0 1024 480"
+   height="480px"
+   width="1024px"
+   version="1.1">
+  <metadata
+     id="metadata136366">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs136364" />
+  <style
+     id="style136357">
+    #title &gt; path {
+        fill: #9aafd4;
+    }
+    .c1{
+    fill: #9aafd4;
+    }
+    .c2{
+    fill: #a4bdd8;
+    }
+    .c3{
+    fill: #bdd2e5;
+    }
+    </style>
+  <g
+     id="title"
+     style="font-style:normal;font-weight:normal;font-size:141.14285278px;line-height:1;font-family:'Brandmark Sans 22';font-variant-ligatures:none;text-align:left;dominant-baseline:middle;text-anchor:middle"
+     aria-label="VNEBULA">
+    <path
+       id="path136368"
+       style="font-style:normal;font-weight:normal;font-size:141.14285278px;line-height:1;font-family:'Brandmark Sans 22';font-variant-ligatures:none;text-align:left;dominant-baseline:middle;text-anchor:middle"
+       d="M 183.65872,190.6 H 150.20786 L 110.82901,263.14743 71.309009,190.6 H 37.999296 l 53.775427,98.8 h 38.108567 z" />
+    <path
+       id="path136370"
+       style="font-style:normal;font-weight:normal;font-size:141.14285278px;line-height:1;font-family:'Brandmark Sans 22';font-variant-ligatures:none;text-align:left;dominant-baseline:middle;text-anchor:middle"
+       d="m 255.06378,190.6 c -37.12057,0 -67.184,0 -67.184,35.99143 V 289.4 h 30.06343 v -55.61029 c 0,-20.748 16.51371,-19.19542 37.12057,-19.19542 20.60685,0 37.40285,-1.41143 37.40285,19.19542 L 292.18435,257.784 V 289.4 h 30.06343 V 226.59143 C 322.24778,190.6 292.18435,190.6 255.06378,190.6 Z" />
+    <path
+       id="path136372"
+       style="font-style:normal;font-weight:normal;font-size:141.14285278px;line-height:1;font-family:'Brandmark Sans 22';font-variant-ligatures:none;text-align:left;dominant-baseline:middle;text-anchor:middle"
+       d="m 441.11431,190.6 h -52.64628 c -32.32171,0 -47.98857,0 -50.10571,23.99429 h 102.75199 z m 0,37.40286 H 338.08003 v 31.05142 c 0,30.34572 15.38457,30.34572 50.388,30.34572 h 52.64628 v -23.99429 h -52.78742 c -16.796,0 -19.76,0.14115 -20.18343,-13.40857 h 72.97085 z" />
+    <path
+       id="path136374"
+       style="font-style:normal;font-weight:normal;font-size:141.14285278px;line-height:1;font-family:'Brandmark Sans 22';font-variant-ligatures:none;text-align:left;dominant-baseline:middle;text-anchor:middle"
+       d="m 570.94368,221.228 c 0,-16.93714 -0.70572,-30.628 -17.64286,-30.628 h -93.86 v 98.8 h 93.86 c 16.93714,0 17.64286,-13.69086 17.64286,-30.628 0,-7.05714 -2.25829,-13.54972 -6.35143,-18.772 4.09314,-5.22229 6.35143,-11.71486 6.35143,-18.772 z m -49.96457,6.77486 v 23.99428 h 15.94914 c 3.66971,0 4.09314,2.964 4.09314,6.77486 0,3.66971 -0.42343,6.63371 -4.09314,6.63371 h -47.424 v -50.81142 h 47.424 c 3.66971,0 4.09314,2.964 4.09314,6.63371 0,3.81086 -0.42343,6.77486 -4.09314,6.77486 z" />
+    <path
+       id="path136376"
+       style="font-style:normal;font-weight:normal;font-size:141.14285278px;line-height:1;font-family:'Brandmark Sans 22';font-variant-ligatures:none;text-align:left;dominant-baseline:middle;text-anchor:middle"
+       d="m 715.17405,190.6 h -30.06343 v 57.304 c 0,17.50171 -14.82,17.64286 -33.30971,17.64286 -18.34857,0 -33.16857,0 -33.16857,-17.64286 V 190.6 h -30.06343 v 68.45428 c 0,30.34572 28.36972,30.34572 63.232,30.34572 35.00343,0 63.37314,0.56457 63.37314,-30.34572 z" />
+    <path
+       id="path136378"
+       style="font-style:normal;font-weight:normal;font-size:141.14285278px;line-height:1;font-family:'Brandmark Sans 22';font-variant-ligatures:none;text-align:left;dominant-baseline:middle;text-anchor:middle"
+       d="m 836.05406,265.54686 h -39.80228 c -18.34857,0 -33.16857,-0.56458 -33.16857,-18.20743 V 190.6 h -30.06343 v 68.45428 c 0,30.34572 28.36971,30.34572 63.37314,30.34572 h 39.66114 z" />
+    <path
+       id="path136380"
+       style="font-style:normal;font-weight:normal;font-size:141.14285278px;line-height:1;font-family:'Brandmark Sans 22';font-variant-ligatures:none;text-align:left;dominant-baseline:middle;text-anchor:middle"
+       d="m 985.45379,289.4 -53.77543,-98.8 h -38.10857 l -53.77542,98.8 h 33.30971 l 39.52,-72.54743 39.37886,72.54743 z" />
+  </g>
+</svg>
